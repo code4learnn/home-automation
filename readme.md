@@ -114,7 +114,7 @@ OK, now connect the relay module to the Nodemcu board using the jumper wires. Fo
 # Step 6
 Now, let’s set up the Blynk web application step by step. For that, follow the instructions below.
 
-First, go to the Blynk official website using your browser. Then login to this site using your email and password. (If you don’t have a Blynk account, you must make a new account. For that, use this link. It will guide you)
+First, go to the Blynk official website using your browser. Then login to this site using your email and password. 
 
 ![image](https://github.com/user-attachments/assets/f4a5d2a5-b6aa-4095-9dc1-5abb39b0c805)
 
@@ -123,11 +123,13 @@ First, go to the Blynk official website using your browser. Then login to this s
 ![image](https://github.com/user-attachments/assets/969ecb2d-0a53-4979-b3d4-a719066b8f54)
 
 * Next, click the template button and create a new template . For that, name it as you like. Also, select the hardware as ESP8266 and the connection as WIFI.
+
 ![image](https://github.com/user-attachments/assets/282b45f6-2f41-444b-a677-c8e1a88ecb6a)
 
 ![image](https://github.com/user-attachments/assets/cecfb688-36cf-40ab-9979-2a24c47e902f)
 
 * Then, click the “Datastreams” tab and create two Datastreams as VitualPin. Also, set the first pin and the second pin to V0 and V1. Then, select the data type as an integer.
+
 ![image](https://github.com/user-attachments/assets/406bea55-2b92-4d27-a4a3-3807dbf195e2)
 
 ![image](https://github.com/user-attachments/assets/f8aa7616-e310-4102-9aed-a7f5a141c953)
